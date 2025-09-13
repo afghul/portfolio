@@ -8,7 +8,7 @@ This portfolio showcases some of my selected works, including **interactive dash
 ## 🔍 Jupyter Notebooks + Slides
 
 ### E-Commerce Delivery Analysis
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([YOUR_COLAB_LINK_HERE](https://colab.research.google.com/drive/1v6fqA92Qhx92TFAYjuVe3ONVja1swpDh?usp=sharing))  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1v6fqA92Qhx92TFAYjuVe3ONVja1swpDh?usp=sharing)
 📑 [View Presentation Slides](https://docs.google.com/presentation/d/1pXgof4g6Yk9jf8mTGqJ03BrihQczf4pJBTwReuQ1wqw/edit?usp=sharing)  
 
 *Description:* Data Analysis on an e-commerce transactions and delivery dataset to uncover key insights, with results summarized in slides for business stakeholders.  
