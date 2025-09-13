@@ -37,8 +37,8 @@ This portfolio showcases some of my selected works, including **interactive dash
 ---
 
 ## 👋 About Me
-I have [X years] of experience in **data analytics, BI, and risk modeling**, with a strong focus on turning raw data into actionable insights.  
-- 🌍 Based in [Your City]  
-- 💼 Currently [Your Role / Open to Opportunities]  
-- ✉️ Reach me at: [your.email@example.com]  
-- 🔗 [LinkedIn Profile](YOUR_LINKEDIN_LINK)  
+I have 5 of experience in **data analytics and business intelligence**, with a strong focus on turning raw data into actionable insights.  
+- 🌍 Based in Jakarta/Bandung
+- 💼 Currently open to opportunities 
+- ✉️ Reach me at: [ghulfi@gmail.com]  
+- 🔗 [LinkedIn Profile](https://www.linkedin.com/in/ghulfi/)  
